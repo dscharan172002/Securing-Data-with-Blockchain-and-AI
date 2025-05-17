@@ -1,0 +1,2 @@
+python_version python-3.7.0-amd64
+mysql_workbench_version mysql workbench version 6.3 CE
